@@ -1,8 +1,9 @@
 # DS_Store
 .DS_Store
 
-# output files
+# output files and test spreadsheets
 outputs/
+test_spreadsheets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

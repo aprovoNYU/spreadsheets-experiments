@@ -1,0 +1,809 @@
+[
+    {
+        "conceptdoi": "10.5281/zenodo.883072",
+        "conceptrecid": "883072",
+        "created": "2018-01-22T09:36:52.399732+00:00",
+        "doi": "10.5281/zenodo.883073",
+        "doi_url": "https://doi.org/10.5281/zenodo.883073",
+        "files": [
+            {
+                "checksum": "md5:2bcfd1bd8dd9c49e8529bf6b1e2c0da8",
+                "id": "e28f3dc8-28bb-4c5e-9279-2ec8323baecd",
+                "key": "database_D.xls",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/database_D.xls/content"
+                },
+                "size": 41472
+            },
+            {
+                "checksum": "md5:cf61aab0ad3bc61930dd2ce9617f2ae5",
+                "id": "97f5df9e-a949-42e5-86b6-27d64d4c71ea",
+                "key": "Table.pdf",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/Table.pdf/content"
+                },
+                "size": 75939
+            },
+            {
+                "checksum": "md5:acd49bf242066b404136f75358735f1f",
+                "id": "a2414a60-1598-4781-9598-c6e490c45abb",
+                "key": "database_D.ods",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/database_D.ods/content"
+                },
+                "size": 24710
+            },
+            {
+                "checksum": "md5:1ffd4ff4009cb149e92b1faed928ca32",
+                "id": "c3abd72d-8ff6-47d5-b54a-2a2c8ec8a37c",
+                "key": "migration_modelling.xlsx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/migration_modelling.xlsx/content"
+                },
+                "size": 1193750
+            },
+            {
+                "checksum": "md5:73dcaae0470108cb4d26bf279a007a8a",
+                "id": "dd6092e9-477f-4309-a2dd-8a3d6fc4a950",
+                "key": "migration_modelling.ods",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/migration_modelling.ods/content"
+                },
+                "size": 958046
+            },
+            {
+                "checksum": "md5:404d32c8e45c4632bd435c78759a04fa",
+                "id": "10b08fc4-b911-4165-9ad7-95ffca8cb379",
+                "key": "readme.txt",
+                "links": {
+                    "self": "https://zenodo.org/api/records/883073/files/readme.txt/content"
+                },
+                "size": 2464
+            }
+        ],
+        "id": 883073,
+        "links": {
+            "access": "https://zenodo.org/api/records/883073/access",
+            "access_grants": "https://zenodo.org/api/records/883073/access/grants",
+            "access_links": "https://zenodo.org/api/records/883073/access/links",
+            "access_request": "https://zenodo.org/api/records/883073/access/request",
+            "access_users": "https://zenodo.org/api/records/883073/access/users",
+            "archive": "https://zenodo.org/api/records/883073/files-archive",
+            "archive_media": "https://zenodo.org/api/records/883073/media-files-archive",
+            "communities": "https://zenodo.org/api/records/883073/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/883073/communities-suggestions",
+            "doi": "https://doi.org/10.5281/zenodo.883073",
+            "draft": "https://zenodo.org/api/records/883073/draft",
+            "files": "https://zenodo.org/api/records/883073/files",
+            "latest": "https://zenodo.org/api/records/883073/versions/latest",
+            "latest_html": "https://zenodo.org/records/883073/latest",
+            "media_files": "https://zenodo.org/api/records/883073/media-files",
+            "parent": "https://zenodo.org/api/records/883072",
+            "parent_doi": "https://doi.org/10.5281/zenodo.883072",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.883072",
+            "parent_html": "https://zenodo.org/records/883072",
+            "requests": "https://zenodo.org/api/records/883073/requests",
+            "reserve_doi": "https://zenodo.org/api/records/883073/draft/pids/doi",
+            "self": "https://zenodo.org/api/records/883073",
+            "self_doi": "https://doi.org/10.5281/zenodo.883073",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.883073",
+            "self_html": "https://zenodo.org/records/883073",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:883073/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:883073/sequence/default",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^10,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^100,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^1200,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^250,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^50,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:883073:Table.pdf/full/^750,/0/default.jpg"
+            },
+            "versions": "https://zenodo.org/api/records/883073/versions"
+        },
+        "metadata": {
+            "access_right": "open",
+            "contributors": [
+                {
+                    "affiliation": "Technical University of Denmark",
+                    "name": "Martinez-Lopez, Brais",
+                    "type": "DataCollector"
+                }
+            ],
+            "creators": [
+                {
+                    "affiliation": "Søltofts Plads Buildding 227 2800 Kongens Lyngby, Denmark",
+                    "name": "Martinez-Lopez, Brais",
+                    "orcid": "0000-0001-5293-9990"
+                }
+            ],
+            "description": "<p>This dataset is actually supplementary data of the scientific article:</p>\n\n<p>Martinez-Lopez, Brais; Gontard, Natalie and Peyron, Stephane &quot;Worst case prediction of additives migration from polystyrene for food safety purposes: a model update&quot; in Food Additives and Contaminants Part A, doi:10.1080/19440049.2017.1402129.</p>\n\n<p>If you use it, please cite it using the reference file we have provided.</p>\n\n<p>This description is the same as in the file &quot;readme.txt&quot;, included in the upload.</p>\n\n<p>List of files:</p>\n\n<ul>\n\t<li>The file database_D contains the experimental diffusivity data for amorphous polystyrene used for the figure 1b. It is a spreadsheet file with two tabs. In the first tab, the diffusion coefficients can be found by choosing molecule family (and the publication were they were found) and temperature in celsius degrees. The second tab contains the same diffusivity data, but they are ranged by increasing molecular weight and temperature. This file is available in open document (.ods) and microsoft excel (.xlsx) formats.</li>\n\t<li>The file migration modelling is also a spreadsheet file, and contains several tabs. The first tab (diffusion coefficient) is an implementation of equation 1, the predictive model for overestimated diffusion coefficients. The given Ap and tau parameter sets are the ones specified in Table 2 for amorphous polystyrene. The second tab (migration levels) is an implementation of equation 3, the solution to Fick&#39;s second law that is used to predict migration levels in food, for pre-selected values of alpha (equation 5). The tabs labeled alpha =... contain the sums used in the equation, whereas the tab &quot;roots&quot; contains the first 200 roots of trascendental equation 4, needed to calculate the sum or terms. This file is also available in open document (.ods) and microsoft excel (.xlsx) formats.</li>\n\t<li>The file &quot;table.pdf&quot; sums the main characteristics of the molecule families, together with the references where they were found (in the second page).</li>\n\t<li>The file reference.bib contains the reference that should be cited if you use this dataset for your own work.</li>\n\t<li>Finally, the file readme.txt contains this very same description.</li>\n</ul>\n\n<p>These files have undergone thorough check, so there should not be any mistakes. In the rare event that you find one, please report it to the author so it can get fixed.</p>\n\n<p>bramar@food.dtu.dk</p>\n\n<p>Brais Mart&iacute;nez L&oacute;pez, PhD<br>\nAssistant professor<br>\nDTU F&oslash;devareinstituttet<br>\nDanmarks Tekniske Universitet<br>\nS&oslash;ltofts Plads<br>\nBygning 227<br>\n2800 Kgs. Lyngby</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
+            "doi": "10.5281/zenodo.883073",
+            "journal": {
+                "title": "Food Additives and Contaminants part A"
+            },
+            "keywords": [
+                "Diffusion coefficient",
+                "Polystyrene",
+                "Migration modelling",
+                "Food Packaging"
+            ],
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "publication_date": "2017-09-01",
+            "references": [
+                "Oglielo et al 2013, Temperature-induced transition of the diffusion mechanism of n-hexane in ultra-thin polystyrene films, resolved by in-situ Spectroscopic Ellipsometry",
+                "Bernardo 2012, Diffusivity of alkanes in polystyrene",
+                "Bernardo 2013, Diffusivity of alcohols in amorphous polystyrene",
+                "Bernardo et al. 2012, Diffusivity of small molecules in polymers: Carboxylic acids in polystyrene",
+                "Dole et al. 2005, Typical diffusion behaviour in packaging polymers - application to functional barriers",
+                "Martinez-Lopez et al. 2014, Determination of mass transport properties in food/packaging systems by local measurement with Raman microspectroscopy",
+                "Martinez-Lopez et al. 2016, Developing a Macroscopic Mechanistic Model for Low Molecular Weight Diffusion through Polymers in the Rubbery State",
+                "Tseng et al. 2000, Tracer diffusion in thin polystyrene films",
+                "Begley et al. 2005, Evaluation of migration models that might be used in support of regulations for food-contact plastics"
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "883072"
+                        }
+                    }
+                ]
+            },
+            "resource_type": {
+                "title": "Dataset",
+                "type": "dataset"
+            },
+            "title": "Diffusion coefficients on amorphous polystyrene and modelling of migration levels from plastic packaging",
+            "version": "1.0"
+        },
+        "modified": "2024-08-03T08:19:13.590054+00:00",
+        "owners": [
+            {
+                "id": "35533"
+            }
+        ],
+        "recid": "883073",
+        "revision": 7,
+        "state": "done",
+        "stats": {
+            "downloads": 247,
+            "unique_downloads": 169,
+            "unique_views": 409,
+            "version_downloads": 247,
+            "version_unique_downloads": 169,
+            "version_unique_views": 408,
+            "version_views": 434,
+            "views": 435
+        },
+        "status": "published",
+        "submitted": true,
+        "swh": {},
+        "title": "Diffusion coefficients on amorphous polystyrene and modelling of migration levels from plastic packaging",
+        "updated": "2024-08-03T08:19:13.590054+00:00"
+    },
+    {
+        "conceptdoi": "10.5281/zenodo.12918526",
+        "conceptrecid": "12918526",
+        "created": "2024-07-26T09:41:44.445985+00:00",
+        "doi": "10.5281/zenodo.12918528",
+        "doi_url": "https://doi.org/10.5281/zenodo.12918528",
+        "files": [
+            {
+                "checksum": "md5:0617b7911ab69f9426e7f58e9817b235",
+                "id": "1fe5b1ee-f3bb-45ac-ac3e-a8ad82169e67",
+                "key": "05_Supplementary_table_1.xls",
+                "links": {
+                    "self": "https://zenodo.org/api/records/12918528/files/05_Supplementary_table_1.xls/content"
+                },
+                "size": 896512
+            },
+            {
+                "checksum": "md5:de06b99fcaa0577cbcf282668578aa18",
+                "id": "16fa9456-0d5a-4e60-bc4d-f1f294522922",
+                "key": "05_Supplementary_table_1.ods",
+                "links": {
+                    "self": "https://zenodo.org/api/records/12918528/files/05_Supplementary_table_1.ods/content"
+                },
+                "size": 112013
+            },
+            {
+                "checksum": "md5:d86439ff292b7b3a8a4f6478338350eb",
+                "id": "150440b8-c54d-4a81-a81a-6015d7949aee",
+                "key": "05_Supplementary_table_1.csv",
+                "links": {
+                    "self": "https://zenodo.org/api/records/12918528/files/05_Supplementary_table_1.csv/content"
+                },
+                "size": 209209
+            }
+        ],
+        "id": 12918528,
+        "links": {
+            "access": "https://zenodo.org/api/records/12918528/access",
+            "access_grants": "https://zenodo.org/api/records/12918528/access/grants",
+            "access_links": "https://zenodo.org/api/records/12918528/access/links",
+            "access_request": "https://zenodo.org/api/records/12918528/access/request",
+            "access_users": "https://zenodo.org/api/records/12918528/access/users",
+            "archive": "https://zenodo.org/api/records/12918528/files-archive",
+            "archive_media": "https://zenodo.org/api/records/12918528/media-files-archive",
+            "communities": "https://zenodo.org/api/records/12918528/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/12918528/communities-suggestions",
+            "doi": "https://doi.org/10.5281/zenodo.12918528",
+            "draft": "https://zenodo.org/api/records/12918528/draft",
+            "files": "https://zenodo.org/api/records/12918528/files",
+            "latest": "https://zenodo.org/api/records/12918528/versions/latest",
+            "latest_html": "https://zenodo.org/records/12918528/latest",
+            "media_files": "https://zenodo.org/api/records/12918528/media-files",
+            "parent": "https://zenodo.org/api/records/12918526",
+            "parent_doi": "https://doi.org/10.5281/zenodo.12918526",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.12918526",
+            "parent_html": "https://zenodo.org/records/12918526",
+            "requests": "https://zenodo.org/api/records/12918528/requests",
+            "reserve_doi": "https://zenodo.org/api/records/12918528/draft/pids/doi",
+            "self": "https://zenodo.org/api/records/12918528",
+            "self_doi": "https://doi.org/10.5281/zenodo.12918528",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.12918528",
+            "self_html": "https://zenodo.org/records/12918528",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:12918528/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:12918528/sequence/default",
+            "versions": "https://zenodo.org/api/records/12918528/versions"
+        },
+        "metadata": {
+            "access_right": "open",
+            "contributors": [
+                {
+                    "affiliation": "Saxion University of Applied Sciences",
+                    "name": "Visser, Ronald",
+                    "orcid": "0000-0001-6966-1729",
+                    "type": "ContactPerson"
+                }
+            ],
+            "creators": [
+                {
+                    "affiliation": "Saxion University of Applied Sciences",
+                    "name": "Visser, Ronald",
+                    "orcid": "0000-0001-6966-1729"
+                }
+            ],
+            "dates": [
+                {
+                    "type": "available"
+                }
+            ],
+            "description": "<p>This supplementary table to Visser(2015) was not openly available.&nbsp; This dataset provides the supplementary table in the open ODS-format and also as XLS and CSV.</p>\n<div>\n<div>Publication: Visser, RM. 2015 Imperial timber? Dendrochronological evidence for large-scale road building along the Roman limes in the Netherlands.&nbsp;<em>Journal of Archaeological Science</em> 53: 243&ndash;254. DOI: <a href=\"https://doi.org/10.1016/j.jas.2014.10.017\">https://doi.org/10.1016/j.jas.2014.10.017</a>.</div>\n</div>",
+            "doi": "10.5281/zenodo.12918528",
+            "language": "eng",
+            "license": {
+                "id": "cc-by-sa-4.0"
+            },
+            "publication_date": "2014-10-27",
+            "related_identifiers": [
+                {
+                    "identifier": "10.1016/j.jas.2014.10.017",
+                    "relation": "isSupplementTo",
+                    "resource_type": "publication-article",
+                    "scheme": "doi"
+                }
+            ],
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "12918526"
+                        }
+                    }
+                ]
+            },
+            "resource_type": {
+                "title": "Dataset",
+                "type": "dataset"
+            },
+            "title": "Supplementary table 1 for 'Imperial timber? Dendrochronological evidence for large-scale road building along the Roman limes in the Netherlands' (2015)",
+            "version": "1.0.0"
+        },
+        "modified": "2024-07-26T09:41:44.638972+00:00",
+        "owners": [
+            {
+                "id": "400731"
+            }
+        ],
+        "recid": "12918528",
+        "revision": 4,
+        "state": "done",
+        "stats": {
+            "downloads": 8,
+            "unique_downloads": 7,
+            "unique_views": 19,
+            "version_downloads": 8,
+            "version_unique_downloads": 7,
+            "version_unique_views": 19,
+            "version_views": 19,
+            "views": 19
+        },
+        "status": "published",
+        "submitted": true,
+        "swh": {},
+        "title": "Supplementary table 1 for 'Imperial timber? Dendrochronological evidence for large-scale road building along the Roman limes in the Netherlands' (2015)",
+        "updated": "2024-07-26T09:41:44.638972+00:00"
+    },
+    {
+        "conceptdoi": "10.5281/zenodo.2596818",
+        "conceptrecid": "2596818",
+        "created": "2019-03-18T00:48:17.856433+00:00",
+        "doi": "10.5281/zenodo.2596819",
+        "doi_url": "https://doi.org/10.5281/zenodo.2596819",
+        "files": [
+            {
+                "checksum": "md5:f21860be371093e02a07771b10ad7caf",
+                "id": "603f592e-1567-4bfa-bac6-5f5f89a930f4",
+                "key": "SUNNY SAM BEST RESULTS ON ONE PAGE HAWAII 2018 VER 5.xlsx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/SUNNY SAM BEST RESULTS ON ONE PAGE HAWAII 2018 VER 5.xlsx/content"
+                },
+                "size": 135532436
+            },
+            {
+                "checksum": "md5:52876404f04ec3a2b36a0db9fa0efede",
+                "id": "2d7f6725-d21b-4466-930e-3f470d10efb4",
+                "key": "SMOKE VS OZONE BREWER DATA bulletin-119-2018-08-07.xls",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/SMOKE VS OZONE BREWER DATA bulletin-119-2018-08-07.xls/content"
+                },
+                "size": 26624
+            },
+            {
+                "checksum": "md5:86cd14645ea618377a0ce0261681d9c2",
+                "id": "a95df4ed-696c-4f30-b4e7-c76145e9817d",
+                "key": "SMOKE VS OZONE BREWER DATA bulletin-119-2018-08-07.ods",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/SMOKE VS OZONE BREWER DATA bulletin-119-2018-08-07.ods/content"
+                },
+                "size": 37430
+            },
+            {
+                "checksum": "md5:2b56c42c84f99d1663c3f19da4a176f1",
+                "id": "46686d12-7105-4112-aaef-3986a799f511",
+                "key": "README.txt",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/README.txt/content"
+                },
+                "size": 1993
+            },
+            {
+                "checksum": "md5:4bee7936675229ddff7dfe12dd3b3ba2",
+                "id": "a6460564-f0d2-48ca-9909-140f756650d4",
+                "key": "README.docx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/README.docx/content"
+                },
+                "size": 18501
+            },
+            {
+                "checksum": "md5:d1793754653a128fd25720a02a72ae66",
+                "id": "dab37f19-69d4-4522-bb54-11211eb8e875",
+                "key": "MTOPS-BREWER CORRECTIONS.xlsx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/MTOPS-BREWER CORRECTIONS.xlsx/content"
+                },
+                "size": 18660
+            },
+            {
+                "checksum": "md5:6f2c53ea7b2e426d7e46ddbeca3ad17f",
+                "id": "fdf86306-9741-4456-abb8-45ce89422fc3",
+                "key": "ijerph-435778 Responses to Reviewers 1-3[36733].docx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/ijerph-435778 Responses to Reviewers 1-3[36733].docx/content"
+                },
+                "size": 46179
+            },
+            {
+                "checksum": "md5:2f5113c5671cefb1f7ec47202a71c7f6",
+                "id": "8d9344e2-77be-4fca-a906-bea4b7e24341",
+                "key": "CSU_BREWER Coimparison for 08072018.xlsx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/CSU_BREWER Coimparison for 08072018.xlsx/content"
+                },
+                "size": 33153
+            },
+            {
+                "checksum": "md5:33b3520455712af3eaadca4a609d8467",
+                "id": "01e97f73-463e-4249-8bad-0697a6c7172b",
+                "key": "Canada AES Brewer 009 and 119 data.docx",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Canada AES Brewer 009 and 119 data.docx/content"
+                },
+                "size": 13336
+            },
+            {
+                "checksum": "md5:ddf2972090cc2e76c7501fadf8e92b02",
+                "id": "eeffa3c9-33a5-4e1b-a425-a18714dd08dd",
+                "key": "1. EAST 2018-07-23T142828_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/1. EAST 2018-07-23T142828_colour.png/content"
+                },
+                "size": 201161
+            },
+            {
+                "checksum": "md5:e61b013dea45ac9bd0e3f2948cce2fff",
+                "id": "34b835be-d6ba-4d59-b760-76d2ac1866ba",
+                "key": "1. WEST 2018-07-23T144136_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/1. WEST 2018-07-23T144136_colour.png/content"
+                },
+                "size": 227544
+            },
+            {
+                "checksum": "md5:31c6f5a22605b696b23fcc8051e44299",
+                "id": "1c874976-1e50-4162-9e9c-22c1c883f164",
+                "key": "0. EAST 2018-07-23T121340_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/0. EAST 2018-07-23T121340_colour.png/content"
+                },
+                "size": 193277
+            },
+            {
+                "checksum": "md5:a392429eea502fbdc1ce70bac73c95a6",
+                "id": "a1ce1775-b59c-4c6b-9f6f-96e1afc1dd34",
+                "key": "Fig. 20. Kilauea plume profiles.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 20. Kilauea plume profiles.jpg/content"
+                },
+                "size": 190657
+            },
+            {
+                "checksum": "md5:da42d8c273aa5c6e3d39de6651a0c8ca",
+                "id": "9bc0a29c-075f-4992-afac-33c6a48b740a",
+                "key": "Fig. 08. Field of View of head sensors DSC09877.JPG",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 08. Field of View of head sensors DSC09877.JPG/content"
+                },
+                "size": 2434114
+            },
+            {
+                "checksum": "md5:5c81ac68afc54385e45600f4a6085736",
+                "id": "adbada98-4cde-4efd-a972-7d9ccd3e90df",
+                "key": "Fig. 19 UV and Visible Kilauea Plume Phortos.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 19 UV and Visible Kilauea Plume Phortos.jpg/content"
+                },
+                "size": 2342405
+            },
+            {
+                "checksum": "md5:cf38d95ad87602e5e98da61ca2c375ad",
+                "id": "35b1783f-5192-4d43-8a85-5ba218eface8",
+                "key": "Fig. 07. SZA and UVI on Mannequin Head.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 07. SZA and UVI on Mannequin Head.jpg/content"
+                },
+                "size": 492646
+            },
+            {
+                "checksum": "md5:a393fca20334ce349a587d4b4b57ccf9",
+                "id": "299392de-fbaf-40bb-a3d3-3f54094cdf76",
+                "key": "Fig. 06. UVI at Rotating Head w O3 corr.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 06. UVI at Rotating Head w O3 corr.jpg/content"
+                },
+                "size": 356159
+            },
+            {
+                "checksum": "md5:8c2e424693ed3cfc8441334ff228f0f8",
+                "id": "8daf8e26-f510-49c0-821a-1c8c58017344",
+                "key": "Fig. 05. UVI at Face MLO 06 Aug 2018 w O3 corr.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 05. UVI at Face MLO 06 Aug 2018 w O3 corr.jpg/content"
+                },
+                "size": 322137
+            },
+            {
+                "checksum": "md5:9532f7604043725785891eb32a03c7d2",
+                "id": "621196c7-f0f7-403d-b715-dd10bb57890b",
+                "key": "Fig. 04. Three Rotations of Mannequin Head UVI corr.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 04. Three Rotations of Mannequin Head UVI corr.jpg/content"
+                },
+                "size": 198558
+            },
+            {
+                "checksum": "md5:8aaaf274ec06837903d4fb35b06e3694",
+                "id": "53bf0fd4-1df5-4611-8c12-ae280f63faf1",
+                "key": "Fig. 18. Color-Coded 300 nm Head Images.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 18. Color-Coded 300 nm Head Images.jpg/content"
+                },
+                "size": 218715
+            },
+            {
+                "checksum": "md5:ff551c9a91b3f73e90953550870c4a86",
+                "id": "88f3e049-7940-4697-b1ca-1f98a4f03ea6",
+                "key": "Fig. 03. Angular response of AlGaN and PMA1102 sensors.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 03. Angular response of AlGaN and PMA1102 sensors.jpg/content"
+                },
+                "size": 700918
+            },
+            {
+                "checksum": "md5:2ad7342dc2a2242b8c8d4d1f1b11c9eb",
+                "id": "5916f1cb-f50d-407c-8e33-1f16098c3325",
+                "key": "Fig. 02 Kona Airport Beach P7232529.JPG",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 02 Kona Airport Beach P7232529.JPG/content"
+                },
+                "size": 1335813
+            },
+            {
+                "checksum": "md5:7ed0def6f149cfa6b863ca104e56e502",
+                "id": "bdb6a007-e717-4a33-8549-d072bb4e35c7",
+                "key": "Fig. 17 UVI in shade and open sky.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 17 UVI in shade and open sky.jpg/content"
+                },
+                "size": 693998
+            },
+            {
+                "checksum": "md5:41238c2d174f254e3a85f8b87034cd8f",
+                "id": "2d0019bf-f668-4c54-ac23-0ba70c88be05",
+                "key": "Fig. 16 VR collage.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 16 VR collage.jpg/content"
+                },
+                "size": 696268
+            },
+            {
+                "checksum": "md5:0f8c0b64842697edb401085a840efda0",
+                "id": "5fa03712-48bb-46d8-b98f-8b7073ec3891",
+                "key": "Fig. 15 Fisheye sequence.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 15 Fisheye sequence.jpg/content"
+                },
+                "size": 196644
+            },
+            {
+                "checksum": "md5:3f9bde01625569e7c21d82c53e72a26f",
+                "id": "60fce7fc-c2d9-4bff-a83d-8c505c527489",
+                "key": "Fig. 01. Hawaii Map.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 01. Hawaii Map.jpg/content"
+                },
+                "size": 595857
+            },
+            {
+                "checksum": "md5:d06f6cc4ba5a1f38d0e45313282be5ce",
+                "id": "77d573f4-d7b3-491a-9145-a175d1c633a5",
+                "key": "Fig. 14 Aureole collage.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 14 Aureole collage.jpg/content"
+                },
+                "size": 165075
+            },
+            {
+                "checksum": "md5:bc295ba59a08d76022c62df900cd075d",
+                "id": "e92ff3e1-a9f0-4a7c-bec1-5cdc318cb8a4",
+                "key": "Fig. 13_UV Transmission through Smoke at MLO TX21.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 13_UV Transmission through Smoke at MLO TX21.jpg/content"
+                },
+                "size": 320265
+            },
+            {
+                "checksum": "md5:cd22aa8005f677ac19da440e633b2e51",
+                "id": "8f96e16e-b7ca-40f4-aa95-3a7551bc4bd5",
+                "key": "Fig. 12 UVI During MLO Smoke Event 08072018.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 12 UVI During MLO Smoke Event 08072018.jpg/content"
+                },
+                "size": 538254
+            },
+            {
+                "checksum": "md5:ddfb8680cbf87a9846fd7f70d60f658d",
+                "id": "94fb1f16-1dcc-4d93-a8c6-39663c917db7",
+                "key": "Fig. 11 Ozone and AOT at Pahoa and Kalapana.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 11 Ozone and AOT at Pahoa and Kalapana.jpg/content"
+                },
+                "size": 527372
+            },
+            {
+                "checksum": "md5:d8f96b73f0189f43adb2b2b21bfde518",
+                "id": "417d5a11-723f-404a-a94a-fbfe35c06d84",
+                "key": "1. SOUTH 2018-07-23T144832_colour.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/1. SOUTH 2018-07-23T144832_colour.jpg/content"
+                },
+                "size": 174463
+            },
+            {
+                "checksum": "md5:98a293e69536ff91bd97a8723f8f29e7",
+                "id": "dcbe4949-0307-4db2-a245-2fa1b8e0c138",
+                "key": "Fig. 10. SO2 Traverse.jpg",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 10. SO2 Traverse.jpg/content"
+                },
+                "size": 364813
+            },
+            {
+                "checksum": "md5:8cf84b2b5391c2a2c7f00ad52c2111c6",
+                "id": "a5d0b365-e358-457b-86bc-639ece73e846",
+                "key": "1. NORTH 2018-07-23T143340_colour_cropped.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/1. NORTH 2018-07-23T143340_colour_cropped.png/content"
+                },
+                "size": 275755
+            },
+            {
+                "checksum": "md5:11f8d5c10853a8dc677851bc93eaa577",
+                "id": "bfe411b5-685c-476e-947c-b9f08c312044",
+                "key": "Fig. 09. Kilauea Plume and Cloud 1428 31 Jul 2018 P7312990.JPG",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/Fig. 09. Kilauea Plume and Cloud 1428 31 Jul 2018 P7312990.JPG/content"
+                },
+                "size": 1607106
+            },
+            {
+                "checksum": "md5:8a7a4235b79a18ec2d1dd6704d5e2403",
+                "id": "aaf30759-e11d-4902-b3ef-a52284f1195b",
+                "key": "0. WEST 2018-07-23T120348_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/0. WEST 2018-07-23T120348_colour.png/content"
+                },
+                "size": 211505
+            },
+            {
+                "checksum": "md5:0e3aa1b5cdea11d1d8bd2f12d30811c2",
+                "id": "d393c891-957f-48e6-83ac-043ae854f475",
+                "key": "0. SOUTH 2018-07-23T120720_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/0. SOUTH 2018-07-23T120720_colour.png/content"
+                },
+                "size": 208688
+            },
+            {
+                "checksum": "md5:7aad60e62ba35a624d2e132b7aeb3555",
+                "id": "54a96548-3dfe-44d7-b63e-fc42af8588e7",
+                "key": "0. NORTH 2018-07-23T122032_colour.png",
+                "links": {
+                    "self": "https://zenodo.org/api/records/2596819/files/0. NORTH 2018-07-23T122032_colour.png/content"
+                },
+                "size": 206490
+            }
+        ],
+        "id": 2596819,
+        "links": {
+            "access": "https://zenodo.org/api/records/2596819/access",
+            "access_grants": "https://zenodo.org/api/records/2596819/access/grants",
+            "access_links": "https://zenodo.org/api/records/2596819/access/links",
+            "access_request": "https://zenodo.org/api/records/2596819/access/request",
+            "access_users": "https://zenodo.org/api/records/2596819/access/users",
+            "archive": "https://zenodo.org/api/records/2596819/files-archive",
+            "archive_media": "https://zenodo.org/api/records/2596819/media-files-archive",
+            "communities": "https://zenodo.org/api/records/2596819/communities",
+            "communities-suggestions": "https://zenodo.org/api/records/2596819/communities-suggestions",
+            "doi": "https://doi.org/10.5281/zenodo.2596819",
+            "draft": "https://zenodo.org/api/records/2596819/draft",
+            "files": "https://zenodo.org/api/records/2596819/files",
+            "latest": "https://zenodo.org/api/records/2596819/versions/latest",
+            "latest_html": "https://zenodo.org/records/2596819/latest",
+            "media_files": "https://zenodo.org/api/records/2596819/media-files",
+            "parent": "https://zenodo.org/api/records/2596818",
+            "parent_doi": "https://doi.org/10.5281/zenodo.2596818",
+            "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2596818",
+            "parent_html": "https://zenodo.org/records/2596818",
+            "requests": "https://zenodo.org/api/records/2596819/requests",
+            "reserve_doi": "https://zenodo.org/api/records/2596819/draft/pids/doi",
+            "self": "https://zenodo.org/api/records/2596819",
+            "self_doi": "https://doi.org/10.5281/zenodo.2596819",
+            "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.2596819",
+            "self_html": "https://zenodo.org/records/2596819",
+            "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2596819/manifest",
+            "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2596819/sequence/default",
+            "thumbnails": {
+                "10": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^10,/0/default.jpg",
+                "100": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^100,/0/default.jpg",
+                "1200": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^1200,/0/default.jpg",
+                "250": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^250,/0/default.jpg",
+                "50": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^50,/0/default.jpg",
+                "750": "https://zenodo.org/api/iiif/record:2596819:1.%20EAST%202018-07-23T142828_colour.png/full/^750,/0/default.jpg"
+            },
+            "versions": "https://zenodo.org/api/records/2596819/versions"
+        },
+        "metadata": {
+            "access_right": "open",
+            "creators": [
+                {
+                    "affiliation": "Geronimo Creek Observatory",
+                    "name": "Mims III, Forrest"
+                },
+                {
+                    "affiliation": "University of Sheffield",
+                    "name": "McGonigle, Andrew"
+                },
+                {
+                    "affiliation": "University of Sheffield",
+                    "name": "Wilkes, Thomas"
+                },
+                {
+                    "affiliation": "University of Southern Queensland",
+                    "name": "Parisi, Alfio"
+                },
+                {
+                    "affiliation": "Sunlight, Nutrition and Health Research Center",
+                    "name": "Grant, William"
+                },
+                {
+                    "affiliation": "University of Sheffield",
+                    "name": "Cook, Joseph"
+                },
+                {
+                    "affiliation": "University of Sheffield",
+                    "name": "Pering, Tom"
+                }
+            ],
+            "description": "<p><strong>Abstract: </strong>Hawai&rsquo;i Island often receives extreme (UV Index &gt;= 11) solar ultraviolet radiation (UVR). While the UV Index (UVI) has been measured since 1997 at Hawai&rsquo;i&rsquo;s high-altitude Mauna Loa Observatory (MLO), measurements where people live and recreate are rare. We measured UVI on the face of a rotating mannequin head with UVR sensors at its eyes, ears and cheeks while simultaneously measuring the UVI with a zenith-facing sensor at MLO and seven sites at or near sea level from 19 July to 14 August 2018. The mannequin sensors received higher UVR at midmorning and midafternoon than at noon. For example, at sea level the peak UVI at the left cheek was 5.2 at midmorning and 2.9 at noon, while the horizontal UVI at noon was 12.7. Our measurements were supplemented with wide-angle (190&deg; and 360&deg;) sky photographs and UV images of the mannequin head. Because the UVI applies to horizontal surfaces, people in tropical and temperate latitudes should be informed that their face may be more vulnerable to UVR at midmorning and midafternoon than at noon. Finally, our instruments provided opportunities to measure unexpected UVR-altering events, including rare biomass smoke over MLO and spectroscopic measurements of substantial UVR-absorbing sulfur dioxide in the eruption plume of the Kilauea volcano.</p>",
+            "doi": "10.5281/zenodo.2596819",
+            "keywords": [
+                "Hawai'i",
+                "Mauna Loa Observatory",
+                "Kilauea",
+                "ultraviolet",
+                "UV Index",
+                "ozone",
+                "sulfur dioxide",
+                "smoke"
+            ],
+            "language": "eng",
+            "license": {
+                "id": "cc-by-4.0"
+            },
+            "publication_date": "2019-03-21",
+            "relations": {
+                "version": [
+                    {
+                        "index": 0,
+                        "is_last": true,
+                        "parent": {
+                            "pid_type": "recid",
+                            "pid_value": "2596818"
+                        }
+                    }
+                ]
+            },
+            "resource_type": {
+                "subtype": "article",
+                "title": "Journal article",
+                "type": "publication"
+            },
+            "title": "Measuring and Visualizing Solar UV for a Wide Range of Atmospheric Conditions on Hawai'i Island"
+        },
+        "modified": "2024-07-24T23:16:53.648932+00:00",
+        "owners": [
+            {
+                "id": "63025"
+            }
+        ],
+        "recid": "2596819",
+        "revision": 7,
+        "state": "done",
+        "stats": {
+            "downloads": 588,
+            "unique_downloads": 529,
+            "unique_views": 124,
+            "version_downloads": 588,
+            "version_unique_downloads": 529,
+            "version_unique_views": 124,
+            "version_views": 129,
+            "views": 129
+        },
+        "status": "published",
+        "submitted": true,
+        "swh": {},
+        "title": "Measuring and Visualizing Solar UV for a Wide Range of Atmospheric Conditions on Hawai'i Island",
+        "updated": "2024-07-24T23:16:53.648932+00:00"
+    }
+]
