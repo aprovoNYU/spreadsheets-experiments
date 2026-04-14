@@ -9,6 +9,8 @@
 
 **spreadsheets-download.ipynb**: Jupyter notebook containing Python script to download spreadsheet files in bulk
 
+**excel-tab-names.ipynb**: Jupyter notebook that takes sample file and creates a list of files and any Excel tab names
+
 **zenodo-download.sh**: bash script to bulk download spreadsheet files
 
 ## Files
